@@ -9,8 +9,8 @@ var PHPProjectSPortfolio =
       "owner": {       
         "avatar_url": "map.jpg", 
       },           
-      "description": "https://github.com/redguide/nodejs",      
-      "code_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
+      "description": "https://github.com/vernkennedy/ClientSideGoogleMap/blob/gh-pages/description.txt",      
+      "code_url": "https://github.com/vernkennedy/ClientSideGoogleMap/tree/gh-pages",
 	  "demo_url": "http://vernkennedy.github.io/ClientSideGoogleMap/",
       "frontend_infor": "Html5,CSS3,JavaScript,Html5 Drag and Drop API",      
       "backend_infor": "Php5,SQL,MySQL"  
@@ -22,8 +22,8 @@ var PHPProjectSPortfolio =
       "owner": {       
         "avatar_url": "drupal.jpg", 
       },           
-      "description": "https://github.com/redguide/nodejs",      
-      "code_url": "https://api.github.com/repos/redguide/nodejs", 
+      "description": "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",      
+      "code_url": "https://github.com/vernkennedy/DrupalModule", 
 	   "demo_url": "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
       "frontend_infor": "Html5,CSS3",      
       "backend_infor": "Php5,SQL,MySQL"  
