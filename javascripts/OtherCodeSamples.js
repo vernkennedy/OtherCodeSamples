@@ -11,7 +11,7 @@ var PHPProjectSPortfolio =
       },           
       "description": "https://github.com/redguide/nodejs",      
       "code_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
-	  "demo_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
+	  "demo_url": "http://vernkennedy.github.io/ClientSideGoogleMap/",
       "frontend_infor": "Html5,CSS3,JavaScript,Html5 Drag and Drop API",      
       "backend_infor": "Php5,SQL,MySQL"  
     },
@@ -24,7 +24,7 @@ var PHPProjectSPortfolio =
       },           
       "description": "https://github.com/redguide/nodejs",      
       "code_url": "https://api.github.com/repos/redguide/nodejs", 
-	   "demo_url": "https://www.youtube.com/watch?v=lJM2oFMoDkM",
+	   "demo_url": "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
       "frontend_infor": "Html5,CSS3",      
       "backend_infor": "Php5,SQL,MySQL"  
     }
