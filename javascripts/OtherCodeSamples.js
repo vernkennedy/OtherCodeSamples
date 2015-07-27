@@ -60,7 +60,7 @@ for (i = 0; i < PHPProjectSPortfolio.PHPProjects.length; i++) {
     content +="<li>"
 				+"<img src="+PHPProjectSPortfolio.PHPProjects[i].owner.avatar_url+">"
 				+"<h3 align=center>"+ PHPProjectSPortfolio.PHPProjects[i].project_name +"</h3>"
-				+"<a href="+PHPProjectSPortfolio.PHPProjects[i].description+">Full Description</a>"
+				+"<a href="+PHPProjectSPortfolio.PHPProjects[i].description+">Description</a>"
 				+" <a href="+PHPProjectSPortfolio.PHPProjects[i].demo_url+">"+PHPProjectSPortfolio.PHPProjects[i].demotype+"</a>"
 				+" <a href="+PHPProjectSPortfolio.PHPProjects[i].code_url + ">Code</a><br><br>"
 				+"<b>Summary</b><br>"+PHPProjectSPortfolio.PHPProjects[i].summary + "<br><br>"
