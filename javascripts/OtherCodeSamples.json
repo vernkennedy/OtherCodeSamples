@@ -1,0 +1,39 @@
+{
+"records": [
+  {
+    "project_name" : "ClientSide Google Map",    
+    "avatar_url" : "map.jpg",
+	"description" : "https://github.com/vernkennedy/ClientSideGoogleMap/blob/gh-pages/description.txt",
+	"summary" : "A web portal that allows clients to make and track their work order requests and also allow company employees to respond to work order requrests",
+    "code_url" : "https://github.com/vernkennedy/ClientSideGoogleMap/tree/gh-pages",
+    "demo_url" : "http://vernkennedy.github.io/ClientSideGoogleMap/",
+	"frontend_infor" : "Html5,CSS3,JavaScript,Html5 Drag and Drop API",
+    "backend_infor" : "Php5,SQL,MySQL",
+    "demotype" : "Live Demo"
+  },
+  
+  {
+    "project_name" : "Drupal Module",    
+    "avatar_url" : "drupal.jpg",
+	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
+	"summary" : "A Rule Based Expert System / web portal for academic planning and exploration of student opportunities at The College of Wooster",
+    "code_url" : "https://github.com/vernkennedy/DrupalModule",
+    "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
+	"frontend_infor" : "Html5,CSS3",
+    "backend_infor" : "Php5,SQL,MySQL",
+    "demotype" : "Video Demo"
+  },
+  
+  {
+    "project_name" : "JSON Portifolio",    
+    "avatar_url" : "drupal.jpg",
+	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
+	"summary" : "A Rule Based Expert System / web portal for academic planning and exploration of student opportunities at The College of Wooster",
+    "code_url" : "https://github.com/vernkennedy/DrupalModule",
+    "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
+	"frontend_infor" : "Html5,CSS3",
+    "backend_infor" : "Php5,SQL,MySQL",
+    "demotype" : "Live Demo"
+  }
+]
+}
