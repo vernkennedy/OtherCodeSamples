@@ -3,14 +3,29 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>By Vernon Zidana</title>
+		<script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+		<script src="javascripts/OtherCodeSamples.js"></script>
 		<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
 	</head>
 
 	<body>
 		<h1 id="repos">Drupal Module, JS (Client-Side Google Map), JSON Portfolio</h1>
-		<div id="demo"></div>
-		<script src="javascripts/OtherCodeSamples.js"></script>
-		
-		
+		<div id="demo"ng-app="myApp" ng-controller="customersCtrl"> 
+
+			<ol>
+				<li ng-repeat="x in names">
+					<img src="{{ x.avatar_url}}">
+					<h3 align="center">{{ x.project_name }}</h3>
+					<a href="{{x.description}}">Description</a>
+					<a href="{{x.demo_url}}">{{x.demotype}}</a>
+					<a href="{{x.code_url}}">Code</a><br><br>
+					<b>Summary</b><br>{{x.summary}}<br><br>
+					<b>Front-end Technologies used:</b><br>{{x.frontend_infor}}<br><br>
+					<b>Middle Tier and Backend Technologies used:</b><br>{{x.backend_infor}} 
+				</li>
+			</ol>
+			
+		</div>
 	</body>
-</html>
+</html> 
+
