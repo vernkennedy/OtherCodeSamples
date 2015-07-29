@@ -19,8 +19,8 @@
     "avatar_url" : "json.bmp",
 	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
 	"summary" : "A portfolio of personal full-stack software development projects projects. These projects are meant to demonstrate my programming skills.",
-    "code_url" : "https://github.com/vernkennedy/DrupalModule",
-    "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
+    "code_url" : "https://github.com/vernkennedy/PHPProjects/tree/gh-pages",
+    "demo_url" : "http://vernkennedy.github.io/PHPProjects/",
 	"frontend_infor" : "Html5,CSS3, AngularJS",
     "backend_infor" : "Php5,SQL,MySQL",
     "demotype" : "Live Demo"
