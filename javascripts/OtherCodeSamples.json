@@ -12,19 +12,7 @@
     "demotype" : "Live Demo"
   },
   
-  {
-    "project_name" : "Drupal Module",    
-    "avatar_url" : "drupal.jpg",
-	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
-	"summary" : "A Drupal module which displays a page to any user (anonymous or authenticated) with a form, collect a few pieces of basic information using this form and save it to the MySQL database, and has an admin-only page that displays the results of those form submissions in a table",
-    "code_url" : "https://github.com/vernkennedy/DrupalModule",
-    "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
-	"frontend_infor" : "Html5,CSS3",
-    "backend_infor" : "Php5,SQL,MySQL",
-    "demotype" : "Video Demo"
-  },
-        
-  {
+    {
     "project_name" : "JSON Portifolio",    
     "avatar_url" : "json.bmp",
 	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
@@ -34,6 +22,20 @@
 	"frontend_infor" : "Html5,CSS3, AngularJS",
     "backend_infor" : "Php5,SQL,MySQL",
     "demotype" : "Live Demo"
+  },
+  
+  {
+    "project_name" : "Drupal Module",    
+    "avatar_url" : "drupal.jpg",
+	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
+	"summary" : "A Drupal module which displays a page to any user with a form, collect basic information using this form and save it to the MySQL database, and has an admin-only page that displays the results of those form submissions in a table",
+    "code_url" : "https://github.com/vernkennedy/DrupalModule",
+    "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
+	"frontend_infor" : "Html5,CSS3",
+    "backend_infor" : "Php5,SQL,MySQL",
+    "demotype" : "Video Demo"
   }
+        
+
 ]
 }
