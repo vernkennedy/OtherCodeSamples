@@ -11,9 +11,7 @@
     "backend_infor" : "Php5,SQL,MySQL",
     "demotype" : "Live Demo"
   },
-  
-
-        
+          
   {
     "project_name" : "JSON Portifolio",    
     "avatar_url" : "json.bmp",
