@@ -1,10 +1,10 @@
 {
 "records": [
   {
-    "project_name" : "ClientSide Google Map",    
+    "project_name" : "Africa Business Network",    
     "avatar_url" : "map.jpg",
 	"description" : "https://github.com/vernkennedy/ClientSideGoogleMap/blob/gh-pages/description.txt",
-	"summary" : "A web portal that allows clients to make and track their work order requests and also allow company employees to respond to work order requrests",
+	"summary" : "Africa Business Network is a client side Google Map showing different business incubators, and microfinance organizations that exist in Africa.",
     "code_url" : "https://github.com/vernkennedy/ClientSideGoogleMap/tree/gh-pages",
     "demo_url" : "http://vernkennedy.github.io/ClientSideGoogleMap/",
 	"frontend_infor" : "Html5,CSS3,JavaScript,Html5 Drag and Drop API",
@@ -16,22 +16,22 @@
     "project_name" : "Drupal Module",    
     "avatar_url" : "drupal.jpg",
 	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
-	"summary" : "A Rule Based Expert System / web portal for academic planning and exploration of student opportunities at The College of Wooster",
+	"summary" : "A Drupal module which displays a page to any user (anonymous or authenticated) with a form, collect a few pieces of basic information using this form and save it to the MySQL database, and has an admin-only page that displays the results of those form submissions in a table",
     "code_url" : "https://github.com/vernkennedy/DrupalModule",
     "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
 	"frontend_infor" : "Html5,CSS3",
     "backend_infor" : "Php5,SQL,MySQL",
     "demotype" : "Video Demo"
   },
-  
+        
   {
     "project_name" : "JSON Portifolio",    
-    "avatar_url" : "drupal.jpg",
+    "avatar_url" : "json.bmp",
 	"description" : "https://github.com/vernkennedy/DrupalModule/blob/master/readme.txt",
-	"summary" : "A Rule Based Expert System / web portal for academic planning and exploration of student opportunities at The College of Wooster",
+	"summary" : "A portfolio of personal full-stack software development projects projects. These projects are meant to demonstrate my programming skills.",
     "code_url" : "https://github.com/vernkennedy/DrupalModule",
     "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
-	"frontend_infor" : "Html5,CSS3",
+	"frontend_infor" : "Html5,CSS3, AngularJS",
     "backend_infor" : "Php5,SQL,MySQL",
     "demotype" : "Live Demo"
   }
