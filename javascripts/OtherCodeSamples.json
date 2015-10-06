@@ -33,7 +33,7 @@
     "demo_url" : "https://www.youtube.com/watch?v=dxbr7o5pThM&feature=youtu.be",
 	"frontend_infor" : "Html5,CSS3",
     "backend_infor" : "Php5,SQL,MySQL",
-    "demotype" : "Video Demo"
+    "demotype" : "Video Demo" 
   }
 ]
 }
